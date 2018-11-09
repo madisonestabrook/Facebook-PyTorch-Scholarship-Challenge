@@ -20,4 +20,4 @@ The following table lists suggested deadlines for the Facebook PyTorch Scholarsh
 | Five: Style Transfer | 12/19/18 |
 | Six: Recurrent Neural Networks | 12/27/18 |
 | Seven: Natural Language Classification | 1/4/19 |
-|  Eight: Deploying with PyTorch | 1/9/19 |
+|  Eight: Deploying with PyTorch and Lab | 1/9/19 |
