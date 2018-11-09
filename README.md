@@ -1,5 +1,4 @@
 # Facebook-PyTorch-Scholarship-Challenge
-![Facebook-PyTorch-Scholarship-Challenge-Badge](/url "pytorch-acceptance-badge.png")
 By _Madison Estabrook_  <br>
 This README: 
  * [Provides the Waffle-Status](Waffle-Status)
